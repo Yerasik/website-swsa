@@ -17,18 +17,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Laboratory
-email: ajaz.bhat@ubd.edu.bn
+title: SWSA Laboratory
+email: amy.hn.cheung@hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  The UBD Ajaz Ahmad Bhat's lab is a multidisciplinary research hub focused on exploring the frontiers of artificial intelligence through the lens of human cognition and behavior. We build autonomous systems that think, reason, and adapt in ways that mirror—and often surpass—human intelligence.
-baseurl: "/lab_website_private" # the subpath of your site, e.g. /blog
+ the 
+baseurl: "/website-swsa" # the subpath of your site, e.g. /blog
 url: "https://yerasik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-googlescholar_path: https://scholar.google.com/citations?user=9PX9YjUAAAAJ&hl=en
-email_path: ajaz.bhat@ubd.edu.bn
-youtube_path: https://www.youtube.com/channel/UCbTav7pqgfIFCoH_ccnXPMw
+googlescholar_path: https://scholar.google.com/citations?user=AiHkWtUAAAAJ&hl=ru&oi=sra
+email_path: amy.hn.cheung@hku.hk
+cv_path: https://web.socialwork.hku.hk/wp-content/uploads/2025/09/Amy-CV_22NOV2025.pdf
 
 permalink: pretty
 markdown: kramdown

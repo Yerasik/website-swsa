@@ -322,9 +322,8 @@ nav.nav-wrap a.nav-logo {
   will-change: transform;
   transition: transform 0.3s ease;
 }
-nav.nav-wrap a.nav-logo svg {
-  height: 100%;
-  width: auto;
+nav.nav-wrap a.nav-logo img {
+  height: 150%;
 }
 nav.nav-wrap a.nav-logo:hover {
   transform: scale(1.1);
