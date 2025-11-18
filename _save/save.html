@@ -1,0 +1,34 @@
+ <div class="text">
+        <a href="#" class="open-popup"><h1>{{projects.title}}</h1></a>
+        <div class="popup-overlay" id="popup">
+          <div class="popup-content">
+            <p>{{projects.content}}</p>
+            <a href="#" class="close-popup">Close</a>
+          </div>
+        </div>
+        <p>{{projects.description}}</p>
+        <p class="tag">{{projects.tag}}</p>
+
+      </div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const openButtons = document.querySelectorAll(".open-popup");
+    const closeButtons = document.querySelectorAll(".close-popup");
+
+    openButtons.forEach(button => {
+      button.addEventListener("click", function (e) {
+        e.preventDefault();
+        const popup = button.closest(".projects-block").querySelector(".popup-overlay");
+        popup.style.display = "flex";
+      });
+    });
+
+    closeButtons.forEach(button => {
+      button.addEventListener("click", function (e) {
+        e.preventDefault();
+        const popup = button.closest(".popup-overlay");
+        popup.style.display = "none";
+      });
+    });
+  });
+</script>
