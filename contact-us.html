@@ -13,32 +13,6 @@ layout: default
     </div>
     <h1 class="header">Contact Us</h1>
   </div>
-  <div class="vacancies-wrapper">
-    <h1 class="header">Vacancies</h1>
-    <div class="scroller">
-      <div class="vacancy-content-wrapper">
-      {% for vacancy in site.data.vacancies %}
-        <div class="content-box">
-            <div class="content-box-text">
-            <h1>{{ vacancy.position }}</h1>
-            <div class="image-box">
-              <img src="../{{ vacancy.image }}" alt="{{ vacancy.position }}">
-            </div>
-            <p>Description:</p>
-            <p>{{ vacancy.description }}</p>
-            <p>Requirements:</p>
-            <p>{{ vacancy.requirements }}</p>
-          </div>
-          <div class="overlay"></div>
-
-        </div>
-      {% endfor %}
-          
-      </div>
-
-    </div>
-    
-  </div>
   <div class="address-links-map">
     <div class="address-and-links">
       <div class="links-holder">
@@ -64,26 +38,25 @@ layout: default
             </svg>
 
           </div><p>Email</p></a>
-          <a href="{{ site.youtube_path}}" target="_blank" class="external-link-wrapper"><div class="external-link-icons external-link-icon-youtube">
-            <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_3" width="71.412064" height="50" x="0" y="0" version="1.1" viewBox="0 0 71.412065 50">
-              <g id="g5" transform="scale(.58824)">
-                <path id="path7" fill="var(--youtube-shade-1)" fill-opacity="1" d="M118.9 13.3c-1.4-5.2-5.5-9.3-10.7-10.7C98.7 0 60.7 0 60.7 0s-38 0-47.5 2.5C8.1 3.9 3.9 8.1 2.5 13.3 0 22.8 0 42.5 0 42.5s0 19.8 2.5 29.2C3.9 76.9 8 81 13.2 82.4 22.8 85 60.7 85 60.7 85s38 0 47.5-2.5c5.2-1.4 9.3-5.5 10.7-10.7 2.5-9.5 2.5-29.2 2.5-29.2s.1-19.8-2.5-29.3z"/>
-                <path id="polygon9" fill="var(--youtube-shade-2)" d="M80.2 42.5 48.6 24.3v36.4z"/>
+          <a href="{{ site.cv_path}}" target="_blank" class="external-link-wrapper"><div class="external-link-icons external-link-icon-cv">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#FFFFFF" version="1.1" id="Capa_1" width="100%" height="100%" viewBox="0 0 43.916 43.916" xml:space="preserve">
+              <g>
+                <path d="M34.395,0H9.522c-2.762,0-5,2.239-5,5v33.916c0,2.761,2.238,5,5,5h24.871c2.762,0,5-2.239,5-5V5   C39.395,2.239,37.154,0,34.395,0z M9.208,16.855c0-1.172,0.951-2.121,2.121-2.121h0.742c-0.791-0.874-1.277-2.03-1.277-3.304   c0-2.723,2.209-4.931,4.932-4.931c2.725,0,4.932,2.207,4.932,4.932c0,1.272-0.486,2.429-1.279,3.303h0.709   c1.172,0,2.121,0.949,2.121,2.121v3.578c0,1.122-0.875,2.03-1.975,2.106h-9.051c-1.1-0.076-1.975-0.984-1.975-2.106V16.855   L9.208,16.855z M32.708,37.416h-21.5c-1.104,0-2-0.896-2-2s0.896-2,2-2h21.5c1.104,0,2,0.896,2,2S33.812,37.416,32.708,37.416z    M32.708,29.916h-21.5c-1.104,0-2-0.896-2-2s0.896-2,2-2h21.5c1.104,0,2,0.896,2,2S33.812,29.916,32.708,29.916z M32.708,22.416   h-6.5c-1.104,0-2-0.896-2-2c0-1.104,0.896-2,2-2h6.5c1.104,0,2,0.896,2,2C34.708,21.52,33.812,22.416,32.708,22.416z"/>
               </g>
             </svg>
-          </div><p>Youtube</p></a>
+          </div><p>CV</p></a>
         </div>
       </div>
       <div class="address">
         <h1>Address:</h1>
-        <p>School of Digital Science
-        <p>2nd Floor of Academy of Brunei Studies Building, Universiti Brunei Darussalam, Jalan Tungku Link, BE1410</p>
-        <p>Negara Brunei Darussalam</p>
+        <p>Department of Social Work and Administration</p>
+        <p>CJT-517, 5/F, The Jockey Club Tower, The Centennial Campus, The University of Hong Kong, Pokfulam, Hong Kong</p>
+        <p>Hong Kong</p>
       </div>
     </div>
     <div class="map">
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3974.777558990494!2d114.8911051750401!3d4.97659739499964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x322259312506ac15%3A0x98d5f53425f7c06d!2sSchool%20of%20Digital%20Science%2C%20UBD!5e0!3m2!1sru!2skz!4v1755342008717!5m2!1sru!2skz"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14767.441869593618!2d114.1155722871582!3d22.283274800000015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403ff8505de1079%3A0xf81d482d0cbc5f77!2sThe%20University%20of%20Hong%20Kong%2C%20The%20Jockey%20Club%20Tower!5e0!3m2!1sru!2shk!4v1763454297942!5m2!1sru!2shk"
         style="border:0; width: 100%; height: 100%;"
         allowfullscreen=""
         loading="lazy"
