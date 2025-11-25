@@ -6,7 +6,25 @@ layout: default
 <!-- first container -->
 <div class="container-team">
   <h1 class="header">Meet the group</h1>
-  
+  <div class="title">
+      <h1>The Head</h1>
+      <hr>
+  </div>
+  <div class="member-content-wrapper">
+    <div class="first-content-box">
+      <div class="image-box">
+          <img src="../assets/img/team/person1.jpg" alt="Amy Cheung">
+      </div>
+      <div class="content-box-text">
+        <h1>Amy Cheung</h1>
+        <p>PhD Student, Department of Social Work and Administration — research on adolescent mental health, school-based prevention and intervention programs.</p>     
+        <div class="email">
+          <a href="../team/Amy-Cheung.html">More details</a>
+        </div>
+        <div class="overlay"></div>
+      </div>
+    </div>
+  </div>
   {% for position in site.data.team.positions %}
   <div class="title">
       <h1>{{ position.title }}</h1>
