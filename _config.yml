@@ -20,7 +20,7 @@
 title: SWSA Laboratory
 email: amy.hn.cheung@hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
- the 
+ PhD Student, Department of Social Work and Administration — research on adolescent mental health, school-based prevention and intervention programs.
 baseurl: "/website-swsa" # the subpath of your site, e.g. /blog
 url: "https://yerasik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
