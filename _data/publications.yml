@@ -1,7 +1,7 @@
 # Publications data - updated from user-provided citation list
 # This copy includes local bg images assigned randomly from assets/img/bg
 
-- image: ../assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
+- image: assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
   title: "Depression in High-Ability vs. Typically Developing Adolescents: A Symptom- and Disorder-Level Analysis"
   reference: "#pub-1"
   number: 1
@@ -13,7 +13,7 @@
   abstract: "Symptom- and disorder-level comparison of depression between high-ability and typically developing adolescents."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-jimbear-2926723.webp
+- image: assets/img/bg/pexels-jimbear-2926723.webp
   title: "The network structure of self-compassion in older adults with different productive engagement patterns"
   reference: "#pub-2"
   number: 2
@@ -25,7 +25,7 @@
   abstract: "A network analysis of self-compassion across older adults with varying productive engagement profiles."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-xespri-724994.webp
+- image: assets/img/bg/pexels-xespri-724994.webp
   title: "Underachievement Risks and Profiles of Psychological Variables Among High-Ability Adolescents from Hong Kong, The Netherlands, Taiwan, and The United Kingdom"
   reference: "#pub-3"
   number: 3
@@ -37,7 +37,7 @@
   abstract: "Cross-national study profiling underachievement risks and psychological correlates among high-ability adolescents."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-picjumbo-com-55570-210661.webp
+- image: assets/img/bg/pexels-picjumbo-com-55570-210661.webp
   title: "Interpersonal symptoms in adolescence depression across Asian and European regions: a network approach"
   reference: "#pub-4"
   number: 4
@@ -49,7 +49,7 @@
   abstract: "Network analysis comparing interpersonal symptom structures of adolescent depression across Asian and European samples."
   acknowledgements: ""
 
-- image: ../assets/img/bg/(The Belcher's)DSC_1489.jpg
+- image: assets/img/bg/(The Belcher's)DSC_1489.jpg
   title: "The role of perfectionism in bullying: A cross-gender and cultural network analysis"
   reference: "#pub-5"
   number: 5
@@ -61,7 +61,7 @@
   abstract: "Cross-cultural network analysis exploring how perfectionism relates to bullying across genders."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-jimbear-2926723.webp
+- image: assets/img/bg/pexels-jimbear-2926723.webp
   title: "Addressing adolescent social and emotional concerns: Insights from loneliness, burnout, and preferred conversation topics in Asian and UK contexts post-pandemic"
   reference: "#pub-6"
   number: 6
@@ -73,7 +73,7 @@
   abstract: "Comparative study of adolescent social/emotional concerns and conversational preferences after the pandemic in Asia and the UK."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
+- image: assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
   title: "Exploring the mediation role of self-compassion in the association between bullying perpetration and depression: A cross culture comparison study"
   reference: "#pub-7"
   number: 7
@@ -85,7 +85,7 @@
   abstract: "Cross-cultural mediation analysis testing whether self-compassion mediates the bullying→depression link."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-picjumbo-com-55570-210661.webp
+- image: assets/img/bg/pexels-picjumbo-com-55570-210661.webp
   title: "Adaptation and Validation of the Pet Bereavement Questionnaire (PBQ) for Chinese Population"
   reference: "#pub-8"
   number: 8
@@ -97,7 +97,7 @@
   abstract: "Psychometric adaptation and validation of the PBQ for a Chinese sample."
   acknowledgements: ""
 
-- image: ../assets/img/bg/(The Belcher's)DSC_1489.jpg
+- image: assets/img/bg/(The Belcher's)DSC_1489.jpg
   title: "Exploring the Mediating Role of Self-Regulation in Bullying Victimization and Depressive Symptoms among Adolescents: A Cross-Regional and Gender Analysis"
   reference: "#pub-9"
   number: 9
@@ -109,7 +109,7 @@
   abstract: "Cross-regional and gender analysis of self-regulation as a mediator between bullying victimization and depressive symptoms."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-xespri-724994.webp
+- image: assets/img/bg/pexels-xespri-724994.webp
   title: "Effectiveness of mindful self-compassion therapy on psychopathology symptoms, psychological distress and life expectancy in infertile women treated with in vitro fertilization: a two-arm double-blind parallel randomized controlled trial"
   reference: "#pub-10"
   number: 10
@@ -121,7 +121,7 @@
   abstract: "Randomized trial testing mindful self-compassion therapy effects among infertile women undergoing IVF."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
+- image: assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
   title: "Perceived social support, perceived stress, and quality of sleep among COVID-19 patients in Iran: assessing measurement invariance of the multidimensional scale of perceived social support across gender and age"
   reference: "#pub-11"
   number: 11
@@ -133,7 +133,7 @@
   abstract: "Measurement invariance test of perceived social support scale across gender and age in COVID-19 patients in Iran."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-jimbear-2926723.webp
+- image: assets/img/bg/pexels-jimbear-2926723.webp
   title: "Influences of parenting styles on perceptions of high-freedom-threatening language in anti-drug messages in Hong Kong"
   reference: "#pub-12"
   number: 12
@@ -145,7 +145,7 @@
   abstract: "Study of how parenting styles shape perceptions of anti-drug messaging language in Hong Kong."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-picjumbo-com-55570-210661.webp
+- image: assets/img/bg/pexels-picjumbo-com-55570-210661.webp
   title: "A Multiple Indicator Multiple Cause (MIMIC) Model of the Self-Compassion Scale Youth (SCS-Y) and Investigation of Differential Item Functioning in China, Hong Kong and UK Adolescents"
   reference: "#pub-13"
   number: 13
@@ -157,7 +157,7 @@
   abstract: "MIMIC modeling of the SCS-Y and DIF investigation across China, Hong Kong and UK adolescents."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-xespri-724994.webp
+- image: assets/img/bg/pexels-xespri-724994.webp
   title: "The gender invariance of multidimensional depression assessment scale in adolescence"
   reference: "#pub-14"
   number: 14
@@ -169,7 +169,7 @@
   abstract: "Investigation of gender invariance for a multidimensional depression assessment in adolescents."
   acknowledgements: ""
 
-- image: ../assets/img/bg/(The Belcher's)DSC_1489.jpg
+- image: assets/img/bg/(The Belcher's)DSC_1489.jpg
   title: "Adaptation of The Multidimensional Depression Assessment Scale for Brazil"
   reference: "#pub-15"
   number: 15
@@ -181,7 +181,7 @@
   abstract: "Cultural adaptation and validation of the MDAS for use in Brazil."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
+- image: assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
   title: "Measurement invariance of the Multidimensional Depression Assessment Scale (MDAS) across gender and ethnic groups of Asian, Caucasian, Black, and Hispanic"
   reference: "#pub-16"
   number: 16
@@ -193,7 +193,7 @@
   abstract: "Study testing measurement invariance of the MDAS across multiple gender and ethnic groups."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-jimbear-2926723.webp
+- image: assets/img/bg/pexels-jimbear-2926723.webp
   title: "A Cross-cultural Investigation of self-compassion in adolescents across gender"
   reference: "#pub-17"
   number: 17
@@ -205,7 +205,7 @@
   abstract: "Conference report of cross-cultural self-compassion findings in adolescents."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-picjumbo-com-55570-210661.webp
+- image: assets/img/bg/pexels-picjumbo-com-55570-210661.webp
   title: "Validation of the 5-D itch scale in three ethnic groups and exploring optimal cut-off values using the Itch Numerical Rating Scale"
   reference: "#pub-18"
   number: 18
@@ -217,7 +217,7 @@
   abstract: "Validation and cut-off exploration for the 5-D Itch Scale across three ethnic groups."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-xespri-724994.webp
+- image: assets/img/bg/pexels-xespri-724994.webp
   title: "A Cultural Validation of the Chinese version of Multidimensional Depression Assessment Scale (MDAS) in Clinically Depressed Patients in Inner Mongolia"
   reference: "#pub-19"
   number: 19
@@ -229,7 +229,7 @@
   abstract: "Cultural validation of the Chinese MDAS among clinically depressed patients in Inner Mongolia."
   acknowledgements: ""
 
-- image: ../assets/img/bg/(The Belcher's)DSC_1489.jpg
+- image: assets/img/bg/(The Belcher's)DSC_1489.jpg
   title: "A validation of Chinese Multidimensional Depression Assessment Scale (MDAS) in Inner Mongolia pregnant women and the study of risk factors of antenatal depression in Inner Mongolia"
   reference: "#pub-20"
   number: 20
@@ -241,7 +241,7 @@
   abstract: "Validation of MDAS in pregnant women in Inner Mongolia and analysis of antenatal depression risk factors."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
+- image: assets/img/bg/pexels-ryan-millier-1693965-3250582.webp
   title: "Prevalence and risk factors of sensitive skin syndrome in Hong Kong using the validated Sensitive Scale-10 (SS-10) Questionnaire"
   reference: "#pub-21"
   number: 21
@@ -253,7 +253,7 @@
   abstract: "Community epidemiological survey reporting prevalence and risk factors for sensitive skin syndrome in Hong Kong."
   acknowledgements: ""
 
-- image: ../assets/img/bg/pexels-jimbear-2926723.webp
+- image: assets/img/bg/pexels-jimbear-2926723.webp
   title: "The development of a New Multi-dimensional Depression Assessment Scale: Preliminary Results"
   reference: "#pub-22"
   number: 22

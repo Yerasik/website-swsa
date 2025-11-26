@@ -8,7 +8,7 @@ layout: default
 <div class="publication-page">
   <h1 class="header">{{ pub.title }}</h1>
   <hr>
-  <img src="{{ pub.image }}" alt="{{ pub.title }}">
+  <img src="../../{{ pub.image }}" alt="{{ pub.title }}">
   <p><strong>Authors:</strong> {{ pub.authors }}</p>
   <p><strong>Journal:</strong> {{ pub.journal }}</p>
   <p><strong>Tags:</strong> {{ pub.tags | join: ", " }}</p>
